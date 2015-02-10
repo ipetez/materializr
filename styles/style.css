@@ -415,11 +415,12 @@ h6{
 .sidebar-logo{
     margin-top:35px;
     margin-left:30px;
-    background-image:url(../images/logo-light.png);
     background-size:120px 20px;
     width:120px;
     height:20px;
     display:block;
+    font-size: 25px;
+    color: #FFF;
 }
 
 /*Sidebar Navigation*/
