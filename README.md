@@ -52,47 +52,79 @@ A mobile template that is themed with the new Material Design. This mobile appli
                 </div> <!-- To Here -->
             </div>
         </div>
-# <h3>Choosing app sizes </h3>
-      <span class="app sm-app">
-        ......
-      </span>
-      <span class="app med-app">
-        ......
-      </span>
-      <span class="app lg-app">
-        ......
-      </span>
+# <h3>Two responsive columns </h3>
+<div class="container">
+    <div class="one-half-responsive">CONTENT HERE</div>
+    <div class="one-half-responsive last-column">CONTENT HERE</div>
+</div>
                 
-# <h3>Customizing app colors </h3>
-      <a href="#" class="app teal">....</a>
-      <a href="#" class="app blue">....</a>
-      <a href="#" class="app purple">....</a>
-      <a href="#" class="app orange">....</a>
+# <h3>Sidebar columns</h3>
+<div class="container">
+    <div class="sidebar-right-big">CONTENT HERE</div>
+    <div class="sidebar-left-small">CONTENT HERE</div>
+</div>
+<div class="container">
+    <div class="sidebar-left-big">CONTENT HERE</div>
+    <div class="sidebar-right-small">CONTENT HERE</div>
+</div>
                 
-# <h3>Choosing app sizes </h3>
-      <span class="app fb-blue">
-        ......
-      </span>
-      <span class="app twitter-blue">
-        ......
-      </span>
-      <span class="app linkedin">
-        ......
-      </span>
+# <h3>Responsive images </h3>
+<img src="images/img.jpg" alt="img" class="responsive-image">
 
-# <h3>Adding new portfolio item </h3>
-      <div class="portfolio-item">
-          <img src="images/hologram.jpg" alt="portfolio item" class="portfolioSelect" />
-          <a><span class="itemsTitle">Lorem Ipsum <br /><img src="images/search2.png"
-           alt="Search Portfolio" class="portfolioSearch" /></span></a>
-      </div>
+# <h3>Responsive videos </h3>
+<iframe class="responsive-video" src="video_address_link"></iframe>
+
+# <h3>jQuery tabs </h3>
+<div class="container">
+    <div class="tabs">
+        <a href="#" class="tab-but tab-but-1 tab-active">Tab 1</a>
+        <a href="#" class="tab-but tab-but-2">Tab 2</a>   
+    </div>
+    <div class="tab-content tab-content-1">
+        Tab Content
+    </div>
+    <div class="tab-content tab-content-2">
+        Tab Content
+    </div>
+</div>
       
-# <h3>Adding new services </h3>
-      <div class="aboutServices">
-          <img src="images/web_support.jpg" />
-          <h2>Web Support</h2>
-          <p>....</p>
-      </div>
+# <h3>jQuery toggle </h3>
+<div class="container">
+    <div class="toggle-1">
+        <a href="#" class="deploy-toggle-1">This is content toggle</a>
+        <div class="toggle-content">
+            Toggle Content Here
+        </div>
+    </div>
+</div>
+# <h3>Simple buttons </h3>
+<a href="#" class="button button-red">Button</a>
+<a href="#" class="button button-green">Button</a>
+<a href="#" class="button button-blue">Button</a>
+
+# <h3>3D button classes </h3>
+<a href="#" class="button-3d button-red red-3d">Button</a>
+<a href="#" class="button-3d button-green green-3d">Button</a>
+<a href="#" class="button-3d button-blue blue-3d">Button</a>
+
+# <h3>Round and square thumbnail galleries </h3>
+<ul class="gallery round-thumb">
+    <li>
+        <a class="swipebox" href="images/pictures/1.jpg" title="An awesome gallery!">
+            <img src="images/pictures/1s.jpg" alt="img" />
+        </a>
+    </li>
+</ul>
+
+# <h3>Wide Portfolio </h3>
+<div class="portfolio-wide">
+    <a href="#" class="portfolio-wide-item">
+        <h3>Swing near the ocean</h3>
+        <p>This is a wide item, just tap it to read more</p>
+        <div class="overlay"></div>
+        <img class="responsive-image" src="images/pictures/1ww.jpg" alt="img">
+    </a>
+</div>
 <h3>Installation</h3>
 
 Clone the repository
