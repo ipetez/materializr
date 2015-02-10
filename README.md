@@ -4,7 +4,7 @@ A mobile template that is themed with the new Material Design. This mobile appli
 ![Alt text](/images/mtzr.png?raw=true "Metron screenshot") &#160; &#160; &#160; &#160; &#160; &#160; ![Alt text](/images/side_menu.png?raw=true "Metron screenshot")
 # <h2>Features</h2>
 <ul>
-  <li>Material Designed Theme</li>
+  <li>Material Designed theme</li>
   <li>Adaptable to both phones and tablets</li>
   <li>Touch Enabled Elements</li>
   <li>Visually Elegant Color Scheme</li>
