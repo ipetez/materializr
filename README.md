@@ -30,11 +30,28 @@ A mobile template that is themed with the new Material Design. This mobile appli
     // Simplified example
       <div class="column">....</div
 
-# <h3>Adding a new app </h3>
+# <h3>Quote Slider </h3>
 
-      <a href="#" class="app sm-app settings">
-          <span class="app-text">Settings</span>                    
-      </a>
+        <div class="container material-box homepage-gallery no-bottom">
+            <h3>Customer Testimonials</h3>
+            <h6 class="full-bottom">We're happy to see you're happy!</h6>            
+            <div class="full-decoration"></div>            
+            <div class="quote-slider full-bottom" data-snap-ignore="true">
+                <div> <!-- From Here -->
+                    <h4>
+                       Quote
+                    </h4>
+                    <a href="#">ChrisPizzoDesign - ThemeForest</a>
+                    <span>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </span>
+                </div> <!-- To Here -->
+            </div>
+        </div>
 # <h3>Choosing app sizes </h3>
       <span class="app sm-app">
         ......
