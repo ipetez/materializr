@@ -24,7 +24,6 @@ A mobile template that is themed with the new Material Design. This mobile appli
                     </div>
                     <img src="images/pictures/5.jpg" class="responsive-image" alt="img">
                 </div>
- 
             </div>
         </div>
             
