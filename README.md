@@ -37,11 +37,11 @@ A mobile template that is themed with the new Material Design. This mobile appli
             <h6 class="full-bottom">We're happy to see you're happy!</h6>            
             <div class="full-decoration"></div>            
             <div class="quote-slider full-bottom" data-snap-ignore="true">
-                <div> <!-- From Here -->
+                <div> 
                     <h4>
                        Quote
                     </h4>
-                    <a href="#">ChrisPizzoDesign - ThemeForest</a>
+                    <a href="#">......</a>
                     <span>
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>
@@ -49,7 +49,7 @@ A mobile template that is themed with the new Material Design. This mobile appli
                         <i class="fa fa-star"></i>
                         <i class="fa fa-star"></i>
                     </span>
-                </div> <!-- To Here -->
+                </div>
             </div>
         </div>
 # <h3>Two responsive columns </h3>
