@@ -53,10 +53,10 @@ A mobile template that is themed with the new Material Design. This mobile appli
             </div>
         </div>
 # <h3>Two responsive columns </h3>
-<div class="container">
-    <div class="one-half-responsive">CONTENT HERE</div>
-    <div class="one-half-responsive last-column">CONTENT HERE</div>
-</div>
+        <div class="container">
+            <div class="one-half-responsive">CONTENT HERE</div>
+            <div class="one-half-responsive last-column">CONTENT HERE</div>
+        </div>
                 
 # <h3>Sidebar columns</h3>
 <div class="container">
