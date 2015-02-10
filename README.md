@@ -81,4 +81,4 @@ A mobile template that is themed with the new Material Design. This mobile appli
 
 Clone the repository
 
-<div>$ git clone https://github.com/ipeters90/metron.git <br>$ cd metron</div>
+<div>$ git clone https://github.com/ipeters90/materializr.git<br>$ cd metron</div>
