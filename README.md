@@ -4,11 +4,13 @@ A mobile template that is themed with the new Material Design. This mobile appli
 ![Alt text](/images/mtzr.png?raw=true "Metron screenshot") &#160; &#160; &#160; &#160; &#160; &#160; ![Alt text](/images/side_menu.png?raw=true "Metron screenshot")
 # <h2>Features</h2>
 <ul>
-  <li>Windows 8.1 themed application</li>
-  <li>Highly Customizable layout</li>
-  <li>Large Pattern Library</li>
-  <li>Responsive Interface</li>
-  <li>Great cross-browser support, even in IE7+</li>
+  <li>Material Designed Theme</li>
+  <li>Adaptable to both phones and tablets</li>
+  <li>Touch Enabled Elements</li>
+  <li>Visually Elegant Color Scheme</li>
+  <li>Fully configured PHP contact form</li>
+  <li>jQuery Colorbox Portfolio viewer</li>
+  <li>Ergonomic Navigation</li>
 </ul>
 # <h2>Get started</h2>
 # <h3>Example of new ".column" class </h3>
