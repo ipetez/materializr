@@ -16,7 +16,6 @@ A mobile template that is themed with the new Material Design. This mobile appli
 # <h3>Homepage Slider </h3>
         <div class="slider-container material-box full-bottom">
             <div class="homepage-slider">          
-      
                 <div>
                     <div class="overlay"></div>
                     <div class="homepage-slider-caption homepage-center-caption">
