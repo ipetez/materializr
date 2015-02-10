@@ -13,20 +13,21 @@ A mobile template that is themed with the new Material Design. This mobile appli
   <li>Ergonomic Navigation</li>
 </ul>
 # <h2>Get started</h2>
-# <h3>Example of new ".column" class </h3>
-      <div class="column" id="column2">
-          <a href="#" class="app md-app events">
-              <span class="app-text">Events</span>                      
-          </a><br />
-          <span class="app lg-app slider_bg">
-              <span class="image-slider">
-                  <img src="images/image1.jpg" alt="image1" class="images" />
-                  <img......
-                  <img.......
-              </span>
-              <span class="image-caption">&#160; A day in the life</span>
-          </span>
-      </div>
+# <h3>Homepage Slider </h3>
+        <div class="slider-container material-box full-bottom">
+            <div class="homepage-slider">          
+      
+                <div>
+                    <div class="overlay"></div>
+                    <div class="homepage-slider-caption homepage-center-caption">
+                        <h3>Slider</h3>
+                        <p>Our slider is awesome!</p>
+                    </div>
+                    <img src="images/pictures/5.jpg" class="responsive-image" alt="img">
+                </div>
+ 
+            </div>
+        </div>
             
     // Simplified example
       <div class="column">....</div
