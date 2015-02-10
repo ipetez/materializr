@@ -129,4 +129,5 @@ A mobile template that is themed with the new Material Design. This mobile appli
 
 Clone the repository
 
-      $ git clone https://github.com/ipeters90/materializr.git<br>$ cd materializr
+      $ git clone https://github.com/ipeters90/materializr.git
+      $ cd materializr
