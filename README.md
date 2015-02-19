@@ -1,6 +1,6 @@
 # materializr
 
-A mobile template that is themed with the new Material Design. This mobile application  works well on both phones and tablets, fully responsive and comes packed with a large pattern library for code re-use and ease of scalability.
+A mobile web application that is themed with the new Material Design. This application  works well on both phones and tablets, fully responsive and comes packed with a large pattern library for code re-use and ease of scalability.
 ![Alt text](/images/mtzr.png?raw=true "Metron screenshot") &#160; &#160; &#160; &#160; ![Alt text](/images/side_menu.png?raw=true "Metron screenshot")
 # <h2>Features</h2>
 <ul>
